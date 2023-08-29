@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+🚧Profile under construction...🚧
+
 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/luca-forelli)
 
-
-## Project Dev
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -15,7 +15,6 @@ How to reach me:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaforelli&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </details>
 
-🚧Profile under construction...🚧
 
 
 
