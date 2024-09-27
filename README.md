@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-🚧Profile under construction...🚧
+- 🔭 I’m currently working on developing my personal website using enhanced graphics UI
+- 🌱 I’m currently learning SAPUI5, C#
+
 
 How to reach me: 
 
